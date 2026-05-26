@@ -1,0 +1,12 @@
+streamlit
+openai
+langchain-core
+langsmith
+numpy
+pillow
+opencv-python
+gtts
+PyPDF2
+pdf2image
+pytesseract
+python-dotenv
